@@ -3,9 +3,9 @@ This project utilizes machine learning models (Random Forest and XGBoost) to pre
 
 ## Objectives
 
-- **Primary Goal**: Develop a predictive model to forecast house prices in Ames, Iowa, based on 79 explanatory variables.
-- **Business Objective**: Help Cardinal Heritage Realty regain market share by offering a competitive pricing tool that integrates tradition with machine learning.
-- **Technical Objective**: Implement advanced regression techniques (Random Forest and XGBoost) to evaluate and improve the accuracy of house price predictions.
+- Develop a predictive model to forecast house prices in Ames, Iowa, based on 79 explanatory variables.
+- Help Cardinal Heritage Realty regain market share by offering a competitive pricing tool that integrates tradition with machine learning.
+- Implement advanced regression techniques (Random Forest and XGBoost) to evaluate and improve the accuracy of house price predictions.
 
 - Check out the Notebook:
 [Notebook](https://github.com/SalazarHerna/House-Price-Prediction---Kaggle-Competition/blob/8a552c67054002c092e9d37dbeddcf860c93e409/Documents%20%26%20Code/Predicting%20House%20Prices_Kaggle%20Competition.ipynb)
