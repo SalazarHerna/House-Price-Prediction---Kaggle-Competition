@@ -7,7 +7,11 @@ This project utilizes machine learning models (Random Forest and XGBoost) to pre
 - **Business Objective**: Help Cardinal Heritage Realty regain market share by offering a competitive pricing tool that integrates tradition with machine learning.
 - **Technical Objective**: Implement advanced regression techniques (Random Forest and XGBoost) to evaluate and improve the accuracy of house price predictions.
 
+- Check out the Notebook: ![Notebook](https://github.com/SalazarHerna/House-Price-Prediction---Kaggle-Competition/blob/8a552c67054002c092e9d37dbeddcf860c93e409/Documents%20%26%20Code/Predicting%20House%20Prices_Kaggle%20Competition.ipynb)
+
 ## Key Outcomes
+
+![Model Performance](https://github.com/SalazarHerna/House-Price-Prediction---Kaggle-Competition/blob/8a552c67054002c092e9d37dbeddcf860c93e409/Documents%20%26%20Code/Model%20Comparison%20-%20Price%20Prediction.jpeg)
 
 - **Model Performance**:
   - **Random Forest Regression**: Achieved an R-squared of 90.7% and an RMSE of $26,713.91.
